@@ -1,0 +1,25 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "description": "In this project, you will demonstrate proficiency by writing unit tests and production code to satisfy the _Minimum Viable Product_ described below.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --verbose"
+},
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/LambdaSchool/webtesting-i-guided.git"
+},
+"keywords": [
+    "lambda",
+    "testing"
+],
+"author": "Lambda School",
+"bugs": {
+    "url": "https://github.com/LambdaSchool/webtesting-i-guided/issues"
+},
+"homepage": "https://github.com/LambdaSchool/webtesting-i-guided#readme",
+"devDependencies": {
+    "jest": "^26.4.2"
+}
+}
